@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I'm <a href="https://www.instagram.com/ander_vare/">Ander Varela</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/cDzRPLS.jpg">
+<img src="https://i.imgur.com/vpcLELx.jpg">
 
 ## About me
 

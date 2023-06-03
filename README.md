@@ -1,12 +1,17 @@
 <div align="center">
-<h1 align="center">Hello, I'm <a href="https://www.instagram.com/ander_vare/">Ander Varela</a> 👋</h1>
+<h1 align="center">Hi! I'm <a href="https://www.instagram.com/ander_vare/">Ander Varela</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/cDzRPLS.jpg">
 
+## About me
+
+- ✏️ UDC student
+- 📲 Software developer
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AnderVarela">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnderVarela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!--

@@ -1,93 +1,54 @@
 <div align="center">
 
-# Hi! I'm [Ander Varela](https://www.instagram.com/ander_vare/) 👋
+# Ander Varela
 
-![Foto](https://i.imgur.com/vpcLELx.jpg)
+**Software Engineer | Frontend & Web Technologies**
 
-**Aspiring software developer with solid programming knowledge and a strong interest in learning and growing in the field of computer engineering.**
+A Coruña, Spain
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ander_Varela-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andervarela/)
+[![Portfolio / Web](https://img.shields.io/badge/GitHub-AnderVarela-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnderVarela)
 
-| 🤪 About me                                  | ⚙️ GitHub Analytics                       |
-| -------------------------------------------- | ---------------------------------------- |
-| - UDC student ✏️<br>- Software developer 📲 | ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AnderVarela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+---
 
 </div>
 
-<!--
+### About Me
 
-<style>
-    @keyframes rotacion {
-        0% {
-            transform: rotate(0deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
+Software Engineer with a solid background in Computer Engineering (Software Engineering specialization) and Master's studies at Universidade da Coruña (UDC). Focused on building performant, maintainable, and modern web applications, combining clean client-side architectures with robust backend integrations.
 
-    div {
-        text-align: center;
-    }
+- 🔭 **Current Focus:** Modern frontend architectures, browser extensions, state management, and developer tooling.
+- 💻 **Core Expertise:** TypeScript, React ecosystem, scalable UI/UX implementation, and automated testing.
+- ⚙️ **Engineering Practices:** Clean code, modular design, Git workflow automation, and continuous integration.
 
-    div > img {
-        border-radius: 0.625rem;
-    }
+---
 
-    p {
-        font-weight: bold;
-    }
+### Tech Stack & Tools
 
-    table {
-        width: 100%;
-    }
+**Frontend & Architecture**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Sass/SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-    td {
-        vertical-align: top;
-        text-align: center;
-    }
+**Backend & Runtimes**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
 
-    td h3 {
-        text-align: left;
-    }
+**Testing, Tooling & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-    #fila1 h2 {
-        display: inline-block;
-    }
+---
 
-    #tuerca {
-        animation: rotacion 5s infinite linear;
-        transform-origin: center;
-        padding: 0;
-    }
-</style>
+### GitHub Activity
 
-<div>
-    <h1>Hi! I'm <a href="https://www.instagram.com/ander_vare/">Ander Varela</a> 👋</h1>
-    <img src="https://i.imgur.com/vpcLELx.jpg" alt="Foto">
-    <p>Aspiring software developer with solid programming knowledge and a strong interest in learning and growing in
-        the field of computer engineering.</p>
-    <table>
-        <tr id="fila1">
-            <td style="width: 40%;">
-                <h2>🤪</h2>
-                <h2>About me</h2>
-            </td>
-            <td style="width: 60%;">
-                <h2 id="tuerca">⚙️</h2>
-                <h2>GitHub Analytics</h2>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>- UDC student ✏️</h3>
-                <h3>- Software developer 📲</h3>
-            </td>
-            <td>
-                <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnderVarela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-                     alt="GitHub Stats"/>
-            </td>
-        </tr>
-    </table>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnderVarela&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ander's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnderVarela&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
-
--->
